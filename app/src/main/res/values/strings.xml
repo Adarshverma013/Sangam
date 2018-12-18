@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">RAKHt JEEVAn</string>
+    <string name="app_name">Sangहम</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
@@ -7,33 +7,194 @@
     <string name="action_settings">Settings</string>
 
 
-    <string name="blood_group">Blood Group</string>
+    <string name="blood_group">Default Message Template</string>
     <string name="SOS_button">SOS</string>
     <string name="Location" />
     <string name="location">Add your location</string>
-    <string-array name="Blood_groups">
-        <item>A+</item>
-        <item>A-</item>
-        <item>B+</item>
-        <item>B-</item>
-        <item>O+</item>
-        <item>O-</item>
-        <item>AB+</item>
-        <item>AB-</item>
+    <string-array name="message">
+        <item>Contact me as soon as possible</item>
+        <item>Call me</item>
+        <item>a</item>
+        <item>b</item>
+        <item>c</item>
+        <item>d</item>
+        <item>e</item>
+        <item>f</item>
     </string-array>
     <string name="title_activity_bleed_gums">bleed_gums</string>
     <string name="about">
         <![CDATA[
-        <p>We all are well aware about the importance of the fixed amount of blood in the body and also that a drop in it\'s amount can be fatal.</p>
-         <p>To tackle such situations can be very complex hence we bring to you this handy app. Here you can manage your emergency contac
-         ts and inform them in case of an emergency,browse nearest medical facilities, look up first aids for various situat
-         ions and share app with your friends.</p>
-         ]]>
+           <b> Mythological origin </b>
+           </br>
+           <p>According to medieval Hindu mythology, the origin of the festival can be found in the ancient legend of samudra manthan. The legend tells of a battle between the Devas and Asuras for amrita, the drink of immortality. During samudra manthan, or churning of the ocean, amrita was produced and placed in a kumbha (pot). To prevent the asuras (malevolent beings) from seizing the amrita, a divine carrier flew away with the pot. In one version of the legend, the carrier of the kumbha is the divine physician Dhanavantari, who stops at four places where the Kumbh Mela is celebrated. In other re-tellings, the carrier is Garuda, Indra or Mohini, who spills the amrita at four places.
+While several ancient texts, including the various Puranas, mention the samudra manthan legend, none of them mentions spilling of the amrita at four places. Neither do these texts mention the Kumbh Mela. Therefore, multiple scholars, including R. B. Bhattacharya, D. P. Dubey and Kama Maclean believe that the samudra manthan legend has been applied to the Kumbh Mela relatively recently, in order to show scriptural authority for it.
+</p>
+</br>
+
+           <b>History</b>
+           </br>
+          <p>There are several references to river-side festivals in ancient Indian texts, but the exact age of the Kumbh Mela is uncertain. The Chinese traveler Xuanzang(Hiuen Tsang) describes a ritual organized by Emperor Shiladitya (identified with Harsha) at the confluence of two rivers, in the kingdom of Po-lo-ye-kia (identified with Prayaga). He also mentions that many hundreds took a bath at the confluence, to wash away their sins. According to some scholars, this is the earliest surviving historical account of the Kumbh Mela, which took place in present-day Allahabad in 644 CE. However, Australian researcher Kama Maclean notes that the Xuanzang reference is about an event that happened every 5 years (and not 12 years), and might have been a Buddhist celebration (since, according to Xuanzang, Harsha was a Buddhist emperor).  </p>
+           </br>
+           <p>A common conception, advocated by the akharas, is that Adi Shankara started the Kumbh Mela at Prayag in 8th century, to facilitate meeting of holy men from different regions. However, academics doubt the authenticity of this claim. </p>
+           </br>
+           <p>The Kumbh Mela of Haridwar appears to be the original Kumbh Mela, since it is held according to the astrological sign "Kumbha" (Aquarius), and because there are several references to a 12-year cycle for it. The earliest extant texts that contain the name "Kumbha Mela" are Khulasat-ut-Tawarikh (1695 CE) and Chahar Gulshan (1759 CE). Both these texts use the term "Kumbh Mela" to describe only Haridwar\'s fair, although they mention the similar fairs held in Allahabad and Nashik district. The Khulasat-ut-Tawarikh lists the following melas: an annual mela and a Kumbh Mela every 12 years at Haridwar; a mela held at Trimbak when Jupiter enters Leo (that is, once in 12 years); and an annual mela held at Prayag in Magh. The Magh Mela of Allahabad is probably the oldest among these, dating from the early centuries CE, and has been mentioned in several Puranas. However, its association with the Kumbha myth and the 12-year old cycle is relatively recent, probably dating back to the mid-19th century. D. P. Dubey notes that none of the ancient Hindu texts mention the Allahabad fair as a "Kumbh Mela". Kama Maclean states that even early British records do not mention the name "Kumbh Mela" or the 12-year cycle for the Allahabad\'s fair. The first British reference to the Kumbh Mela in Allahabad occurs only in an 1868 report, which mentions the need for increased pilgrimage and sanitation controls at the "Coomb fair" to be held in January 1870. According to Maclean, the Prayagwal Brahmin priests of Allahabad adapted their annual Magh Mela to Kumbh legend, in order to increase the importance of their tirtha. </p>
+           </br>
+           <p> The Kumbh Mela at Ujjain began in the 18th century, when the Maratha ruler Ranoji Shinde invited ascetics from Nashik to Ujjain for a local festival. Like the priests at Allahabad, the pandits of Nashik and Ujjain, competing with other places for a sacred status, may have adopted the Kumbh tradition for their pre-existing melas. </p>
+           </br>
+           <p>Until the East India Company rule, the Kumbh Melas were managed by the akharas (sects) of religious ascetics known as the sadhus. They collected taxes, and also carried out policing and judicial duties. The sadhus were heavily militarized, and also participated in trade. The Melas were a scene of sectarian politics, which sometimes turned violent. The Chahar Gulshan states that the local sanyasis at Haridwar attacked the fakirs of Prayag who came to attend the Kumbh Mela there.[21]At the 1760 Kumbh Mela in Haridwar, a clash broke out between Shaivite Gosains and Vaishnavite Bairagis (ascetics), resulting in hundreds of deaths, with Vaishnavite forming most of the victims. A copper plate inscription of the Maratha Peshwa claims that 12,000 ascetics died in a clash between Shaivite sanyasis and Vaishnavite bairagis at the 1789 Nashik Kumbh Mela. The dispute started over the bathing order, which indicated status of the akharas. At the 1796 Kumbh Mela in Haridwar, the Shaivites attacked and injured the Udasis for erecting a camp without their permission. In response, the Khalsa Sikhs accompanying the Udasis killed around 500 Gosains; the Sikhs lost around 20 men in the clash. The clashes subsided after the Company administration severely limited the trader-warrior role of the sadhus, who were increasingly reduced to begging. </p>
+           </br>
+           <p>Besides their religious significance, historically the Kumbh Melas were also major commercial events. Baptist missionary John Chamberlain, who visited the 1824 Ardh Kumbh Mela at Haridwar, stated that a large number of visitors came there for trade. He noted that the fair was attended by "multitudes of every religious order", including a large number of Sikhs.[26] According to an 1858 account of the Haridwar Kumbh Mela by the British civil servant Robert Montgomery Martin, the visitors at the fair included people from a number of races and religions. Besides priests, soldiers, and religious mendicants, the fair was attended by several merchants, including horse traders from Bukhara, Kabul, Turkistan, Arabia and Persia. Several Hindu rajas, Sikh rulers and Muslim Nawabs visited the fair. A few Christian missionaries also preached at the Mela. </p>
+           </br>
+           <p>The Kumbh Melas played an important role in spread of the cholera outbreaks and pandemics. The British administrators made several attempts to improve the sanitary conditions at the Melas, but thousands of people died of cholera at these fairs until the mid-20th century. </p>
+           </br>
+           <p>Several stampedes have occurred at the Kumbh Melas. After an 1820 stampede at Haridwar that killed 485 people, the Company government took extensive infrastructure projects, including construction of new ghats and road widening, to prevent further stampedes. Since then Haridwar has experienced fewer deaths in stampedes: the next big stampede occurred in 1986, when 50 people were killed. Allahabad has also experienced major stampedes, in 1840, 1906, 1954, 1986 and 2013. The deadliest of these was the 1954 stampede, which left 800 people dead. </p>
+           </br>
+
+           <b>Kumbh Mela</b>
+
+           </br>
+           <p>Kumbh Mela or Kumbha Mela, inscribed on the UNESCO's Representative List of Intangible Cultural Heritage of Humanity, is a mass Hindu pilgrimage of faith in which Hindus gather to bathe in a sacred or holy river. Traditionally, four fairs are widely recognized as the Kumbh Melas: the Haridwar Kumbh Mela, the Allahabad Kumbh Mela, the Nashik-Trimbakeshwar Simhastha, and Ujjain Simhastha. These four fairs are held periodically at one of the following places by rotation: Haridwar, Allahabad (Prayaga), Nashik district (Nashik and Trimbak), and Ujjain. The main festival site is located on the banks of a river: the Ganges (Ganga) at Haridwar; the confluence (Sangam) of the Ganges and the Yamuna and the invisible Sarasvati at Allahabad; the Godavari at Nashik; and the Shipra at Ujjain. Bathing in these rivers is thought to cleanse a person of all their sins. </p>
+           </br >
+           <p>At any given place, the Kumbh Mela is held once in 12 years. There is a difference of around 3 years between the Kumbh Melas at Haridwar and Nashik; the fairs at Nashik and Ujjain are celebrated in the same year or one year apart. The exact date is determined, as per Vikram Samvat calendar and the principles of Jyotisha, according to a combination of zodiac positions of the Jupiter, the Sun and the Moon. At Nashik and Ujjain, the Mela may be held while a planet is in Leo (Simha in Hindu astrology); in this case, it is also known as Simhastha. At Haridwar and Allahabad, an Ardha ("Half") Kumbh Mela is held every sixth year; a Maha ("Great") Kumbh Mela occurs after 144 years. </p>
+           </br>
+           <p>The priests at other places have also claimed their local fairs to be Kumbh Melas. For example, the Mahamaham festival at Kumbakonam, held once in 12 years, is also portrayed as a Kumbh Mela. </p>
+           </br>
+           <p>The exact age of the festival is uncertain. According to medieval Hindu mythology, Lord Vishnu dropped drops of Amrita (the drink of immortality) at four places, while transporting it in a kumbha (pot). These four places are identified as the present-day sites of the Kumbh Mela. The name "Kumbh Mela" literally means "kumbha fair". It is known as "Kumbh" in Hindi (due to schwa deletion); in Sanskrit and some other Indian languages, it is more often known by its original name "Kumbha".</p>
+           </br>
+           <p>The festival is one of the largest peaceful gatherings in the world, and considered as the "world's largest congregation of religious pilgrims". There is no precise method of ascertaining the number of pilgrims, and the estimates of the number of pilgrims bathing on the most auspicious day may vary. An estimated 120 million people visited Maha Kumbh Mela in 2013 in Allahabad over a two-month period, including over 30 million on a single day, on 10 February 2013 (the day of Mauni Amavasya). </p>
+
+
+
+
+]]>
     </string>
-    <string name="ear"><![CDATA[
-    <p>Bleeding Ears If you are with someone and there is blood coming from their ear, this is a serious cause for concern. Typically, a bleeding ear indicates a head injury so there are basic first aid steps that should be followed.</p>
-     <p>1. Gently place a sterile gauze or pad over the ear, not inside the ear! 2. Lay the individual on their side so that the affected ear is on the ground. This will allow blood and fluids to drain outward.</p>
-     <p>3. Always treat the individual as if you are dealing with a serious head injury and do not allow them to fall asleep. You want them to be calm and relaxed yet awake. Reassure them and ask questions so they talk if you feel as though they are going to dose off.</p>
+    <string name="minto"><![CDATA[
+    <h4>Minto Park</h4>
+      <p>Owning its name from the
+educationalist and politician,
+Madan Mohan Malviya, Minto Park
+is set on the banks of river Yamuna
+and is famous as Earl of Minto read
+the declaration of Queen Victoria's
+Proclamation in 1858 here. A tour
+inside this must visit place can
+land you near the white marble
+column of four stones lions, a
+major attraction laid by Earl of
+Minto. </p>
+
 ]]></string>
+
+    <string name="hanuman"><![CDATA[
+         <h4>Hanuman Mandir</h4>
+
+       <p>One of the major tourist attractions
+for spiritually enlightened souls
+Hanuman Mandir in Allahabad, is
+renowned for the resting idol of
+Lord Hanuman. Present from the
+Vedic ages, its believed that when
+the river Ganges ascends, it
+immerses the temple and comes
+to seek blessings from Lord
+Hanuman by touching his feet. </p>
+]]></string>
+
+
+    <string name="sangam"><![CDATA[
+  <h4>Sangam</h4>
+    <p> One of the holiest destinations of
+India where the three rivers of
+Ganges, Yamuna and Saraswati
+meet, Triveni Sangam is a popular
+tourist attraction in Prayag,
+Allahabad. Reckoned as a religious
+significant place for the pilgrims, it
+also hosts the gathering of Kumbh
+Mela and is believed that whosoever bathes here will get their soul purified.</p>
+
+
+
+]]></string>
+
+    <string name="fort"><![CDATA[
+     <h4> Allahabad Fort</h4>
+
+ <p>Standing tall since 1583 in the city
+of Allahabad on the banks of river
+Yamuna near its confluence with
+the holy river Ganga is a
+monument which was built by
+Mughal emperor named as
+Allahabad Fort. The archaeological
+survey of India has also recognized
+this fort as a monument of national
+importance. It is one of the best
+places to visit in the city. </p>
+
+    ]]></string>
+
+    <string name="jawahar"><![CDATA[
+
+   <h4>Jawahar Planetarium</h4>
+
+<p>Sculpted in the year 1979 adjacent
+to Anand Bhavan, the former
+home of the Nehru-Gandhi family
+is Jawahar Planetarium. This tourist
+attraction in Allahabad is now
+turned into a museum which is
+taken care by the Jawaharlal
+Nehru Memorial Fund and also
+hosts the Jawaharlal Nehru
+Memorial Lecture every year on 14
+November. </p>
+]]></string>
+
+    <string name="mankameshwar"><![CDATA[
+
+    <h4>Mankameshwar Temple</h4>
+
+     <p>It is said that the shiv linga is covered by silver metal and was founded by Lord Shiva himself during Dwapara era, when Krishna was born in Mathura.</p>
+     <br>
+
+<p>The temple has one sanctum sanctorum where the vigraha of Lord Shiva sits. It is surrounded by the typical Shiva family idols. One has to descend down a score of stairs to reach the sanctum sanctorum. One can reach fully close to the main vigraha provided one does not wear leather items and English style pants, pyjamas, and salwaar suits. </p>
+<\br>
+
+<p>Behind the sanctum sanctorum are several small temples within the main temple complex. These are devoted to various deities like Goddess Ganga, Saraswati, Gayatri, Hanuman, Kaila devi, Narsimha, Krishna, Rama to name a few</p>
+     ]]></string>
+
+    <string name="patalpuri"><![CDATA[
+     <h4>Patalpuri Temple</h4>
+
+<p>Patalpuri Temple, a subterranean
+shrine in the Allahabad Fort, was
+first discovered by the Chinese
+traveler named Huan Tsung. It is
+believed that Lord Rama visited the
+temple, and thus, the temple has
+huge significance in the hearts of
+devotees Which makes this place a
+must-visit attraction in Allahabad.</p>
+
+
+     ]]></string>
+
+    <string name="shankar"><![CDATA[
+
+    <h4>Shankar viman mandapam</h4>
+
+<p> Situated in the holy city of India, Allahabad, Shankar Viman Mandapam is a temple that is 130 feet high and consists of 4 floors. This complete temple is built in the South-Indian Style of architecture which has idols of Kamakshi Devi , Kumaril Bhatt, Jagadguru Adi Shankaracharya, Yogashastra Sahastrayoga Linga and Tirupati Balagi.</p>
+    ]]></string>
+
+    <string name="swaraj"><![CDATA[
+     <h4>Swaraj Bhawan</h4>
+
+<p> Swaraj Bhawan which was once a property of the Nehru family has now become a tourist spot in Allahabad.This humongous manison was previously known as Anand Bhawan. People come here to see the Charkha which was once used by Mahatma Gandhi, pictures of several freedom fighters and personal belongings of the nehru family.</p>
+    ]]></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="addChatRoom">Add Room</string>
 
 </resources>

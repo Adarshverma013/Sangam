@@ -70,8 +70,8 @@ public class MainActivity extends AppCompatActivity
         int id = item.getItemId();
 
         //noinspection SimplifiableIfStatement
-        if (id == R.id.donor) {
-            Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://docs.google.com/forms/d/e/1FAIpQLSe_CUp6AkjcGDmvD8y7ftgnl61t8RdopshR8H7A7zqFNAmbgA/viewform"));
+        if (id == R.id.website) {
+            Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://kumbh.gov.in/en"));
             startActivity(browserIntent);
             return true;
         }
@@ -88,16 +88,45 @@ public class MainActivity extends AppCompatActivity
         if (id == R.id.home) {
             fragmentManager.beginTransaction().replace(R.id.content_frame, new firstFrag()).commit();
             // Handle the camera action
-        } else if (id == R.id.blood_banks) {
-            Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.google.com/maps/search/?api=1&query=blood+banks+near+my+location"));
+        } else if (id == R.id.police_stations) {
+            /*if(getSupportFragmentManager().findFragmentById(R.id.content_frame) != null) {
+                getSupportFragmentManager()
+                        .beginTransaction().
+                        remove(getSupportFragmentManager().findFragmentById(R.id.content_frame)).commit();
+            }
+            getSupportFragmentManager()
+                    .beginTransaction()
+                    .replace(R.id.container, new BlankFragment())
+                    .commit();*/
+            Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.google.co.in/maps/search/police+stations+near+me"));
             startActivity(browserIntent);
 
         } else if (id == R.id.hospitals) {
+
+            /*if(getSupportFragmentManager().findFragmentById(R.id.content_frame) != null) {
+                getSupportFragmentManager()
+                        .beginTransaction().
+                        remove(getSupportFragmentManager().findFragmentById(R.id.content_frame)).commit();
+            }
+            getSupportFragmentManager()
+                    .beginTransaction()
+                    .replace(R.id.container, new BlankFragment())
+                    .commit();*/
             Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.google.com/maps/search/?api=1&query=hospitals+near+my+location"));
             startActivity(browserIntent);
-        } else if (id == R.id.bloodloss) {
-            Intent i=new Intent(this,bloodLossHome.class);
+        } else if (id == R.id.places) {
+            Intent i=new Intent(this,places.class);
             startActivity(i);
+            /*if(getSupportFragmentManager().findFragmentById(R.id.content_frame) != null) {
+                getSupportFragmentManager()
+                        .beginTransaction().
+                        remove(getSupportFragmentManager().findFragmentById(R.id.content_frame)).commit();
+            }
+            getSupportFragmentManager()
+                    .beginTransaction()
+                    .replace(R.id.container, new BlankFragment())
+                    .commit();*/
+
         } else if (id == R.id.account) {
 
             fragmentManager.beginTransaction().replace(R.id.content_frame, new profileFrag()).commit();
@@ -106,11 +135,25 @@ public class MainActivity extends AppCompatActivity
             String userMessage= AppleInput.getText().toString();
             startActivity(i);*/
         }else if (id == R.id.nav_share) {
-            fragmentManager.beginTransaction().replace(R.id.content_frame, null).commit();
+
+            /*if(getSupportFragmentManager().findFragmentById(R.id.content_frame) != null) {
+                getSupportFragmentManager()
+                        .beginTransaction().
+                        remove(getSupportFragmentManager().findFragmentById(R.id.content_frame)).commit();
+            }
+            getSupportFragmentManager()
+                    .beginTransaction()
+                    .replace(R.id.container, new BlankFragment())
+                    .commit();
+            fragmentManager.beginTransaction().replace(R.id.content_frame, null).commit();*/
             Intent i = new Intent(android.content.Intent.ACTION_SEND);
             i.setType("text/plain");
-            i.putExtra(android.content.Intent.EXTRA_TEXT, "My new app https://play.google.com/store/search?q=TECHHUBINDIAN");
+            i.putExtra(android.content.Intent.EXTRA_TEXT, "My new app https://www.youtube.com");
             startActivity(Intent.createChooser(i, "Share Via"));
+        }else if(id == R.id.ChatRoom)
+        {
+            Intent i = new Intent(this,ChatRoom.class);
+            startActivity(i);
         }
         drawer.closeDrawer(GravityCompat.START);
         return true;

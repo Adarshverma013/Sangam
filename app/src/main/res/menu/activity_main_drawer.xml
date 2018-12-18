@@ -7,23 +7,26 @@
         <item
             android:id="@+id/home"
             android:icon="@drawable/ic_home_black_24dp"
-            android:title="About" />
+            android:title="History of Sangam" />
         <item
-            android:id="@+id/blood_banks"
+            android:id="@+id/police_stations"
             android:icon="@drawable/ic_heart_black_24dp"
-            android:title="Nearby Blood Banks" />
+            android:title="Nearby Police Stations" />
         <item
             android:id="@+id/hospitals"
             android:icon="@drawable/ic_add_location_black_24dp"
             android:title="Nearby Hospitals" />
         <item
-            android:id="@+id/bloodloss"
+            android:id="@+id/places"
             android:icon="@drawable/ic_local_hospital_black_24dp"
-            android:title="Blood Loss Sitautions" />
+            android:title="Places you should visit" />
         <item
             android:id="@+id/account"
             android:icon="@drawable/ic_account_pin_black_24dp"
             android:title="Account" />
+        <item
+            android:id="@+id/ChatRoom"
+            android:title="Chat" />
 
 
     </group>

@@ -46,7 +46,7 @@ public class SOSBut extends AppCompatActivity {
         Spinner spinner = (Spinner) findViewById(R.id.spinner);
 
         ArrayAdapter<CharSequence> adapter = ArrayAdapter.createFromResource(this,
-                R.array.Blood_groups, android.R.layout.simple_dropdown_item_1line);
+                R.array.message, android.R.layout.simple_dropdown_item_1line);
 
         adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
 
@@ -75,7 +75,7 @@ public class SOSBut extends AppCompatActivity {
                     reader2 = new BufferedReader(new FileReader(testFile2));
 
                     String line1,line2;
-                    String sms="Hey I urgently need blood of blood group "+text+".Please contact me as soon as possible.";
+                    String sms="Hey I urgently need your help "+text+".";
                 SmsManager smsManager = SmsManager.getDefault();
                     while ((line1 = reader1.readLine()) != null && (line2 = reader2.readLine()) != null ) {
                         smsManager.sendTextMessage(line2, null, sms, null, null);
