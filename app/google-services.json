@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "138839700511",
+    "firebase_url": "https://sangam-27c57.firebaseio.com",
+    "project_id": "sangam-27c57",
+    "storage_bucket": "sangam-27c57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138839700511:android:b24a1a5a2a0042b7",
+        "android_client_info": {
+          "package_name": "com.shashwat.hackfest2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138839700511-fo5optkla6j10p4981okd9o72o9jcbsr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shashwat.hackfest2",
+            "certificate_hash": "01b956e6b18279d107db20b98883155207bb4be4"
+          }
+        },
+        {
+          "client_id": "138839700511-dveu08ud09j02t9bghrr6rbdo2difj46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKrAu3Qm8dzvBk_TwQTov8H1PdgJESRH0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138839700511-dveu08ud09j02t9bghrr6rbdo2difj46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
